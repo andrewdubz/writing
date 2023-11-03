@@ -38,9 +38,4 @@ setInterval(() => {
 }, 1000);
 ```
 
-And here it is in operation:
-
-[insert video here]
-
-
-
+This does actually make the LED blink; I'm having some issues with my video uploading service this morning so for now you'll have to take my word for it. :slight_smile: 
